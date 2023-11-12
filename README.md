@@ -61,6 +61,12 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 - *Task Structure:*
     - Each task includes a description, due date, priority, and completion status.
 
+- *Task Management:*
+    - Add, display, update, complete, and remove tasks seamlessly.
+
+- *User Interface:*
+    - Intuitive console-based interface for ease of use.
+
 
 
 
