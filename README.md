@@ -1,5 +1,5 @@
-# To-Do List Application
-
+# **To-Do List Application
+**
 A simple and intuitive to-do list application to manage your tasks efficiently.
 
 ## Table of Contents
@@ -44,4 +44,4 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 
 1. Add Tasks:
   ```bash
-  * Enter task details such as description, due date, and priority.
+  - Enter task details such as description, due date, and priority.
