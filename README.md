@@ -31,11 +31,7 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
    ```bash
    git clone https://github.com/mueezbaig/To-Do-List.git
 
-2. Change directory:
-   ```bash
-   cd TodoList
-
-3. Run the Application
+2. Run the Application
     ```bash
     python TodoList.py
 
@@ -66,6 +62,8 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 
 - *User Interface:*
     - Intuitive console-based interface for ease of use.
+
+
 
 
 
