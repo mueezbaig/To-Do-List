@@ -39,9 +39,9 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
     ```bash
     python TodoList.py
 
-### Usage
+## Usage
 
-1. Add Tasks:
+###1. Add Tasks:
    - Enter task details such as description, due date, and priority.
 
 3. Display Tasks:
