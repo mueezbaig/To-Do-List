@@ -42,7 +42,8 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 ### Usage
 
 1. Add Tasks:
-  - Enter task details such as description, due date, and priority.
+    ```bash
+    - Enter task details such as description, due date, and priority.
 
 2. Display Tasks:
     ```bash
