@@ -23,7 +23,7 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10 or above Versions
 
 ### Installation
 
