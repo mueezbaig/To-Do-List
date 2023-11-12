@@ -62,6 +62,10 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 
 - *User Interface:*
     - Intuitive console-based interface for ease of use.
+ 
+## License
+
+This project is licensed under the [MIT License](LICENSE)
 
 
 
