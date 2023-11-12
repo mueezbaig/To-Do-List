@@ -1,7 +1,7 @@
 # **To-Do List Application**
 A simple and intuitive to-do list application to manage your tasks efficiently.
 
-## Table of Contents
+## _Table of Contents_
 
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -18,13 +18,13 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 - User-friendly console-based interface
 - Input validation for better user experience
 
-## Getting Started
+# Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.10 or above Versions
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -42,21 +42,19 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 ## Usage
 
 ### 1. Add Tasks:
-   - Enter task details such as description, due date, and priority.
+  - Enter task details such as description, due date, and priority.
 
-3. Display Tasks:
-    ```bash
-   - View a list of all tasks, including their details and completion status.
-4. Mark as Completed:
-    ```bash
-    - Mark tasks as completed and move them to the completed tasks list.
+### 2. Display Tasks:
+  - View a list of all tasks, including their details and completion status.
+    
+### 3. Mark as Completed:
+  - Mark tasks as completed and move them to the completed tasks list.
 
-5. Update Task:
-     ```bash
-     - Modify task details, including description, due date, and priority.
-6. Remove Task:
-     ```bash
-    - Remove tasks from the to-do list.
+### 4. Update Task:
+  - Modify task details, including description, due date, and priority.
+    
+### 5. Remove Task:
+  - Remove tasks from the to-do list.
 
 
     
