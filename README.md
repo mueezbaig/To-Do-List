@@ -35,6 +35,4 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 ```bash
    python TodoList.py
 
-# **Usage & Functionality**
-
 
