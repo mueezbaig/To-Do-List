@@ -30,4 +30,13 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/mueezbaig/To-Do-List.git
+
+2. Change directory:
+   ```bash
+   cd TodoList
+
+3. Run the Application
+    ```bash
+    python TodoList.py
+
