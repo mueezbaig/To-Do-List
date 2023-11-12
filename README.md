@@ -30,11 +30,11 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
    ```bash
    git clone https://github.com/mueezbaig/To-Do-List.git
 
-## Run the Application:
+2.  Run the Application:
 
 ```bash
-python TodoList.py 
+   python TodoList.py
 
-##  **Usage**
+# **Usage & Functionality**
 
 
