@@ -56,5 +56,12 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 ### 5. Remove Task:
   - Remove tasks from the to-do list.
 
+## Functionality
+
+- *Task Structure:*
+    - Each task includes a description, due date, priority, and completion status.
+
+
+
 
     
