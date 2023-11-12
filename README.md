@@ -42,20 +42,19 @@ A simple and intuitive to-do list application to manage your tasks efficiently.
 ### Usage
 
 1. Add Tasks:
-    ```bash
-    - Enter task details such as description, due date, and priority.
+ - Enter task details such as description, due date, and priority.
 
-2. Display Tasks:
+3. Display Tasks:
     ```bash
    - View a list of all tasks, including their details and completion status.
-3. Mark as Completed:
+4. Mark as Completed:
     ```bash
     - Mark tasks as completed and move them to the completed tasks list.
 
-4. Update Task:
+5. Update Task:
      ```bash
      - Modify task details, including description, due date, and priority.
-5. Remove Task:
+6. Remove Task:
      ```bash
     - Remove tasks from the to-do list.
 
